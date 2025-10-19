@@ -1,0 +1,3 @@
+GT4500,10,0,0,0  # másodlagos tároló üres
+TORPEDO,SINGLE  # első tüzelés, primary store
+TORPEDO,SINGLE  # második tüzelés, secondary store üres, ezért visszatér a primary store-hoz

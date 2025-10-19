@@ -1,0 +1,2 @@
+SUCCESS  # <- GT4500 létrehozása sikeres
+FAIL # <- Primary tároló hibát jelez, sikertelen tüzelés

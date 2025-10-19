@@ -1,0 +1,3 @@
+SUCCESS  # <- GT4500 létrehozása sikeres
+SUCCESS  # <- Torpedó kilövése a primary store-ból
+SUCCESS  # <- Másodlagos tároló üres, újabb torpedó kilövése a primary store-ból
