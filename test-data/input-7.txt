@@ -1,0 +1,2 @@
+GT4500,10,1,10,0  # primary tároló nagy hibaaránnyal
+TORPEDO,SINGLE  # első tüzelés a primary store-ból, amely hibát jelez

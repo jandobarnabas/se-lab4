@@ -1,0 +1,2 @@
+GT4500,0,0,0,0  # mindkét tároló üres
+TORPEDO,SINGLE  # próbál kilőni, de nem sikerül

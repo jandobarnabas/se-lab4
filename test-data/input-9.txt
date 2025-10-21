@@ -1,0 +1,2 @@
+GT4500,10,1,10,1  # mindkét tároló magas hibaaránnyal
+TORPEDO,ALL  # próbál mindkét tárolóból lőni, de mindkettő hibát jelez
